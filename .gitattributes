@@ -3,5 +3,6 @@
 
 # 3. 쉘 스크립트 명시적 고정
 *.bat text eol=crlf working-tree-encoding=utf-8
+*.ps1 text eol=crlf working-tree-encoding=utf-8
 *.sh text eol=lf working-tree-encoding=utf-8
 *.lua text eol=lf working-tree-encoding=utf-8
